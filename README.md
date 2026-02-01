@@ -1,5 +1,5 @@
 
-# AssociationRulesExplorer
+# Market Basket Analysis Engine
 
 A Python app for exploring association rules using an interactive Streamlit tool.
 
